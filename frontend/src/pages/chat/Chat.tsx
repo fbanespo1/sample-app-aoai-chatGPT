@@ -151,6 +151,7 @@ const Chat = () => {
 
     return (
         <div className={styles.container} role="main">
+{/*             Commented for now */}
 {/*             {showAuthMessage ? (
                 <Stack className={styles.chatEmptyState}>
                     <ShieldLockRegular className={styles.chatIcon} style={{color: 'darkorange', height: "200px", width: "200px"}}/>
